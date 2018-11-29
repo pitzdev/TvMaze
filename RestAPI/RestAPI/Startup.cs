@@ -50,7 +50,7 @@ namespace RestAPI
                 {
                     Version = "v1",
                     Title = "TvMaze Scraper",
-                    Description = "A simple ASP.NET Core Web API TvMaze Scraper",
+                    Description = "ASP.NET Core Web API TvMaze Scraper",
                     TermsOfService = "None",
                     Contact = new Contact
                     {
